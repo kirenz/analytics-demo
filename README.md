@@ -2,4 +2,4 @@
 
 Example repo
 
-Ein neuer Hinweis
+Ein neuer Hinweis!
